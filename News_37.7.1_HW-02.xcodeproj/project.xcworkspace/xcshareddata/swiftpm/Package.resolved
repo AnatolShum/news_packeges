@@ -1,0 +1,59 @@
+{
+  "pins" : [
+    {
+      "identity" : "alamofire",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/Alamofire/Alamofire.git",
+      "state" : {
+        "revision" : "bc268c28fb170f494de9e9927c371b8342979ece",
+        "version" : "5.7.1"
+      }
+    },
+    {
+      "identity" : "ios-serialization-moya",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/SkillfactoryCoding/IOS-Serialization-Moya",
+      "state" : {
+        "revision" : "9b906860e3c3c09032879465c471e6375829593f",
+        "version" : "15.0.0"
+      }
+    },
+    {
+      "identity" : "ios-serialization-sdwebimage",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/SkillfactoryCoding/IOS-Serialization-SDWebImage",
+      "state" : {
+        "revision" : "2e63d0061da449ad0ed130768d05dceb1496de44",
+        "version" : "5.12.5"
+      }
+    },
+    {
+      "identity" : "objectmapper",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/tristanhimmelman/ObjectMapper.git",
+      "state" : {
+        "revision" : "0b96a734de3ea1c87374ae677064f86adb0716ec",
+        "version" : "4.2.0"
+      }
+    },
+    {
+      "identity" : "reactiveswift",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/ReactiveCocoa/ReactiveSwift.git",
+      "state" : {
+        "revision" : "c43bae3dac73fdd3cb906bd5a1914686ca71ed3c",
+        "version" : "6.7.0"
+      }
+    },
+    {
+      "identity" : "rxswift",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/ReactiveX/RxSwift.git",
+      "state" : {
+        "revision" : "9dcaa4b333db437b0fbfaf453fad29069044a8b4",
+        "version" : "6.6.0"
+      }
+    }
+  ],
+  "version" : 2
+}
